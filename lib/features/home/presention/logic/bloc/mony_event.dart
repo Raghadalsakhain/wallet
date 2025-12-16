@@ -24,5 +24,9 @@ class addMoneyToCategory  extends MonyEvent{
   
 }
 class sumcategory extends MonyEvent{
-  
+}
+
+class getcategory extends MonyEvent{
+
+
 }

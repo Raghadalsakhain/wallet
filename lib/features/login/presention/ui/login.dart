@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:wallet/extension/appSize.dart';
-import 'package:wallet/screens/homescreen.dart';
-import 'package:wallet/style/color/appcolors.dart';
-import 'package:wallet/widgets/boutton.dart';
+import 'package:wallet/core/extension/appSize.dart';
+import 'package:wallet/features/home/presention/ui/homescreen.dart';
+import 'package:wallet/core/style/color/appcolors.dart';
+import 'package:wallet/core/widgets/boutton.dart';
 
 class Login extends StatelessWidget {
   const Login({super.key});

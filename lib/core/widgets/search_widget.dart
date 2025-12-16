@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wallet/style/color/appcolors.dart';
+import 'package:wallet/core/style/color/appcolors.dart';
 
 class SearchWidget extends StatefulWidget {
   const SearchWidget({super.key, required this.onchange});

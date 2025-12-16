@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:wallet/style/color/appcolors.dart';
+import 'package:wallet/core/style/color/appcolors.dart';
 
 class CategoryWidget extends StatelessWidget {
   const CategoryWidget({
